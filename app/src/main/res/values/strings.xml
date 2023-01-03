@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">InvoiceMaker</string>
+
+    <string name="company_name">SAI SHIVA ENTERPRISES</string>
+    <string name="company_address">Plot no-71, Pipeline Road, Prakash Nagar, Hafeezpet, Hyderabad, Telangana-500050</string>
+    <string name="company_bank_name">A/C Name : Sai Shiva Enterprises</string>
+    <!--<string name="company_bank">AXIS Bank</string> -->
+    <string name="company_bank_ifsc">IFSC code : UTIB0001817</string>
+    <string name="company_bank_account_no">A/C No : 922020027667456</string>
+
+    <string name="Thanks">Thanks &amp; Regards\nFor <bold>SAI SHIVA ENTERPRISES</bold>\nSATISH\n9949076747</string>
+
+
+    <string name="notes_1">1. Above prices are exclusive of transport charges.</string>
+    <string name="notes_2">2. On site Fitting will be extra charges.</string>
+    <string name="notes_3">3. All motors use class F insulation &amp; class F wire as per ISI/ISO standard..</string>
+    <string name="demo_date">10 April 1999</string>
+
+
+</resources>
